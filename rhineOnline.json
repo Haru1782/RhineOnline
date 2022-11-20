@@ -7,7 +7,6 @@
         "collectTheCoin":
         {
             "header": "https://raw.githubusercontent.com/Haru1782/RhineOnline/main/promo_collectTheCoin.png",
-            "gradient": "#213024",
             "name":
             {
                 "English": "Collect the Coin"
@@ -19,6 +18,36 @@
                 "Android": "https://play.google.com/store/apps/details?id=com.MazabIZW.CollectTheCoin",
                 "LinuxPlayer": "https://gamejolt.com/games/collectthecoin/386187",
                 "LinuxEditor": "https://gamejolt.com/games/collectthecoin/386187"
+            }
+        },
+        "dlFengPort":
+        {
+            "header": "https://raw.githubusercontent.com/Haru1782/RhineOnline/main/promo_collectTheCoin.png",
+            "name":
+            {
+                "English": "Dancing Line Community Edition",
+                "ChineseSimplified": "跳舞的线社区版",
+                "ChineseTraditional": "跳舞的線社區版"
+            },
+            "link":
+            {
+                "WindowsEditor": "https://discord.gg/9xDYMDaxDy",
+                "IPhonePlayer": "https://discord.gg/9xDYMDaxDy"
+            }
+        },
+        "dlHaruPort":
+        {
+            "header": "https://raw.githubusercontent.com/Haru1782/RhineOnline/main/promo_collectTheCoin.png",
+            "name":
+            {
+                "English": "Dancing Line Haru Port",
+                "ChineseSimplified": "跳舞的线春移植版",
+                "ChineseTraditional": "跳舞的線春移植版"
+            },
+            "link":
+            {
+                "WindowsEditor": "https://discord.com/sundSMvFxu",
+                "WindowsPlayer": "https://discord.com/sundSMvFxu"
             }
         }
     }
