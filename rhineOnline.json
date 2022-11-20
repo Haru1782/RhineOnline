@@ -22,7 +22,7 @@
         },
         "dlFengPort":
         {
-            "header": "https://raw.githubusercontent.com/Haru1782/RhineOnline/main/promo_collectTheCoin.png",
+            "header": "https://raw.githubusercontent.com/Haru1782/RhineOnline/main/promo_dlFengPort.png",
             "name":
             {
                 "English": "Dancing Line Community Edition",
@@ -37,7 +37,7 @@
         },
         "dlHaruPort":
         {
-            "header": "https://raw.githubusercontent.com/Haru1782/RhineOnline/main/promo_collectTheCoin.png",
+            "header": "https://raw.githubusercontent.com/Haru1782/RhineOnline/main/promo_dlHaruPort.png",
             "name":
             {
                 "English": "Dancing Line Haru Port",
@@ -46,8 +46,8 @@
             },
             "link":
             {
-                "WindowsEditor": "https://discord.com/sundSMvFxu",
-                "WindowsPlayer": "https://discord.com/sundSMvFxu"
+                "WindowsEditor": "https://discord.gg/sundSMvFxu",
+                "WindowsPlayer": "https://discord.gg/sundSMvFxu"
             }
         }
     }
