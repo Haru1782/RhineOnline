@@ -7,7 +7,7 @@
         "collectTheCoin":
         {
             "header": "https://raw.githubusercontent.com/Haru1782/RhineOnline/main/promo_collectTheCoin.png",
-            "gradient": "213024",
+            "gradient": "#213024",
             "name":
             {
                 "English": "Collect the Coin"
