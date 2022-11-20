@@ -2,4 +2,24 @@
     "discord": "https://discord.gg/8gTmeGkVHd",
     "youtube": "https://www.youtube.com/channel/UCypxY89DU92hkuQHx7TwO5g",
     "developerVersion" : 0
+    "otherGames" :
+    {
+        "collectTheCoin":
+        {
+            "header": "https://raw.githubusercontent.com/Haru1782/RhineOnline/main/promo_collectTheCoin.png",
+            "gradient": "213024",
+            "name":
+            {
+                "English": "Collect the Coin"
+            }
+            "link":
+            {
+                "WindowsPlayer": "https://gamejolt.com/games/collectthecoin/386187",
+                "WindowsEditor": "https://gamejolt.com/games/collectthecoin/386187",
+                "Android": "https://play.google.com/store/apps/details?id=com.MazabIZW.CollectTheCoin",
+                "LinuxPlayer": "https://gamejolt.com/games/collectthecoin/386187",
+                "LinuxEditor": "https://gamejolt.com/games/collectthecoin/386187",
+            }
+        }
+    }
 }
