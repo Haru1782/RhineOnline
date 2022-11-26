@@ -17,7 +17,13 @@
                 "WindowsEditor": "https://gamejolt.com/games/collectthecoin/386187",
                 "Android": "https://play.google.com/store/apps/details?id=com.MazabIZW.CollectTheCoin",
                 "LinuxPlayer": "https://gamejolt.com/games/collectthecoin/386187",
-                "LinuxEditor": "https://gamejolt.com/games/collectthecoin/386187"
+            },
+            "stores":
+            {
+                "WindowsPlayer": "Game Jolt",
+                "WindowsEditor": "Game Jolt",
+                "Android": "Google Play",
+                "LinuxPlayer": "Game Jolt",
             }
         },
         "dlFengPort":
@@ -33,6 +39,11 @@
             {
                 "WindowsEditor": "https://discord.gg/9xDYMDaxDy",
                 "IPhonePlayer": "https://discord.gg/9xDYMDaxDy"
+            },
+            "stores":
+            {
+                "WindowsEditor": "Discord",
+                "IPhonePlayer": "Discord"
             }
         },
         "dlHaruPort":
@@ -48,6 +59,11 @@
             {
                 "WindowsEditor": "https://discord.gg/sundSMvFxu",
                 "WindowsPlayer": "https://discord.gg/sundSMvFxu"
+            },
+            "link":
+            {
+                "WindowsEditor": "Discord",
+                "WindowsPlayer": "Discord"
             }
         }
     }
